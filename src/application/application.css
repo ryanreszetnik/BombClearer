@@ -1,0 +1,6 @@
+ /*JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.button{/*changes the default look of the buttons */
+ 	-fx-background-radius: 0;/*makes them have no rounded corners */
+	-fx-border-color:rgb(79,79,79);/*makes the border match with the style of the game */
+	-fx-border-width: 1 1 1 1;/*makes the border 1 px wide */
+}
